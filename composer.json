@@ -17,7 +17,7 @@
     },
     "require": {
         "illuminate/support": "^6.0",
-        "laravel/socialite": "^4.3"
+        "laravel/socialite": "^5.2.2"
     },
     "require-dev": {
         "orchestra/testbench-browser-kit": "^5.0",
